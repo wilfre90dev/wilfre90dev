@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilfredo Palma</h1>
-<h3 align="center">A passionate developer from Cuba</h3>
+<h3 align="center">Worker, active and capable. Engineering in Computer Science and knowledge of Information Technology and Communications. 
+  Desktop and web development, graphic design and translations. Currently I am programming and making web adaptations.</h3>
 
 - 🔭 I’m currently working on **Laravel Framework + VueJS, Wordpress, Web development and translations.**
 
@@ -8,6 +9,7 @@
 - 💬 Ask me about **IT Networks, and any other technology that you feel confortable with it. I'll be glad to help you.**
 
 - 📫 How to reach me **wilfre90@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
